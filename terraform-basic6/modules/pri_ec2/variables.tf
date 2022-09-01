@@ -1,1 +1,1 @@
-variable "module_instance_type" {}
+variable "local_module_instance_type" {}
